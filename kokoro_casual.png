@@ -1,0 +1,5 @@
+#kokoro-avatar {
+    width: 320px; /* Un poco más ancho para las coletas */
+    height: 480px;
+    background: url('kokoro_coletas_violeta.png') no-repeat center/contain;
+}
